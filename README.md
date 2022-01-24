@@ -1,4 +1,4 @@
-# clean-code-architecture-flutter
+# fluttter-clean-code-architecture
 
 Seed app with clean code architecture
 
